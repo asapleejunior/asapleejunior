@@ -57,4 +57,3 @@ I'm Valencio
 
 ---
 
-*If you want, I can also reword phrases to sound more natural for an English-speaking GitHub audience (for example: change “in training, highly motivated” to "currently learning and eager to grow").*
