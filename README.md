@@ -1,8 +1,6 @@
 < Welcome to my profile /> 🧑‍💻
-
-# VALENCIO ASAPLEE JUNIOR
-
-## WEB INTEGRATOR | WEB DEVELOPER
+I'm Valencio
+🧑‍💻
 
 🚀 Web Integrator || Web Developer in **training, highly motivated**
 
@@ -10,7 +8,7 @@
 
 ### 💡 About Me
 
-<p align="center">
+<p align="left">
   🎯 <b>Aspiring Web Developer</b>: I specialize in creating modern and responsive user interfaces. &nbsp;|&nbsp;
   💡 I enjoy solving complex problems and writing clean, efficient code. &nbsp;|&nbsp;
   🤝 I am open to continuous learning and new collaborations.
@@ -20,7 +18,7 @@
 
 ### 🔗 Contact Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lee-rabarison-885b36322/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -36,7 +34,7 @@
 
 ### 🛠️ Skills
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -53,7 +51,7 @@
 
 ### 📊 Language Dashboard
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapleejunior&layout=compact&theme=vue" />
 </p>
 
