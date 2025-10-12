@@ -1,8 +1,9 @@
-< Welcome to my profile /> 🧑‍💻
+< Welcome to my profile /> 🦈🦈🦈
 I'm Valencio
-🧑‍💻
 
-🚀 Web Integrator || Web Developer in **training, highly motivated**
+🦈🦈🦈💥💥🦈🦈🦈
+
+🚀 Web Integrator || Web Developer in **training, highly motivated**✊🏻✊🏻
 
 ---
 
@@ -11,7 +12,7 @@ I'm Valencio
 <p align="left">
   🎯 <b>Aspiring Web Developer</b>: I specialize in creating modern and responsive user interfaces. &nbsp;|&nbsp;
   💡 I enjoy solving complex problems and writing clean, efficient code. &nbsp;|&nbsp;
-  🤝 I am open to continuous learning and new collaborations.
+  👍🏻 I am open to continuous learning and new collaborations 👍🏻
 </p>
 
 ---
