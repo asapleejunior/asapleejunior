@@ -31,57 +31,58 @@
 
 #### 💻 Programming & Web Development
 <p align="left">
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" /> [cite: 52]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="Django" /> [cite: 53]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP" /> [cite: 51]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" /> [cite: 48]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" /> [cite: 48]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" /> [cite: 48]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap5" /> [cite: 49]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" title="Sass" /> [cite: 49]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" title="Vue.js" /> [cite: 50]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" /> [cite: 55]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C" /> [cite: 47]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" /> [cite: 51]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" title="Bootstrap5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" title="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" title="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" />
 </p>
 
 #### ⚙️ Frameworks & Specialized Tools
 <p align="left">
-  [cite_start]<img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" title="Odoo" /> [cite: 54]
-  [cite_start]<img src="https://img.shields.io/badge/WLanguage-00519E?style=for-the-badge" title="WLanguage (WinDev/WebDev)" /> 
-  [cite_start]<img src="https://img.shields.io/badge/Merise_/_UML-FF6B6B?style=for-the-badge" title="Merise/UML" /> [cite: 56]
-  [cite_start]<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" /> [cite: 57]
+  <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" height="45" title="Odoo" />
+  <img src="https://img.shields.io/badge/WLanguage-00519E?style=for-the-badge" height="45" title="WLanguage (WinDev/WebDev)" />
+  <img src="https://img.shields.io/badge/Merise_/_UML-FF6B6B?style=for-the-badge" height="45" title="Merise/UML" />
+  <img src="https://img.shields.io/badge/SGBDR-4479A1?style=for-the-badge" height="45" title="SGBDR" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="45" title="Git" />
 </p>
 
 #### 🎨 Graphics & UI/UX Design
 <p align="left">
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" title="Adobe Illustrator" /> [cite: 44]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40" title="Adobe Photoshop" /> [cite: 44]
-  [cite_start]<img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white" width="40" height="40" title="Adobe InDesign" /> [cite: 44]
-  [cite_start]<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" width="40" height="40" title="Adobe Premiere Pro" /> [cite: 44]
-  [cite_start]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" /> [cite: 45]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" title="Adobe Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="45" title="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" height="45" title="Adobe InDesign" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="45" title="Adobe Premiere Pro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" title="Figma" />
 </p>
 
 ---
 
 ### 🖥️ IDEs & Workspace
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" title="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" width="40" height="40" title="Sublime Text" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" title="IntelliJ" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" title="Eclipse" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" width="40" height="40" title="Dev C++" />
-  <img src="https://img.shields.io/badge/Embarcadero-BE202E?style=flat-square" width="40" height="40" title="Embarcadero" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" title="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" height="45" title="Sublime Text" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" title="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="45" title="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="45" title="NetBeans" />
+  <img src="https://img.shields.io/badge/Dev_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45" title="Dev C++" />
 </p>
 
 ---
 
 ### 📂 Academic Projects
-- [cite_start]**Recruitment CRM (Odoo 18)**: Built with Python 3.12 and PostgreSQL, featuring automated emails and contract management[cite: 19, 21].
-- [cite_start]**Leave Management App**: PHP Web app using MVC architecture with VanillaJS and Bootstrap 5[cite: 22, 23, 24].
-- [cite_start]**Medical Appointment System**: Developed in WebDev for patient and doctor scheduling[cite: 25, 27].
-- [cite_start]**Pilot Payroll System**: WinDev application for automated salary calculations[cite: 32, 35, 36].
+- [cite_start]**Recruitment CRM (Odoo 18)**: Built with Python 3.12 and PostgreSQL, featuring automated emails and local contract management[cite: 19, 21].
+- [cite_start]**Leave Management App**: PHP Web app using MVC architecture with VanillaJS and Bootstrap 5[cite: 22, 24].
+- [cite_start]**Medical Appointment System**: Developed for patient and doctor scheduling[cite: 25, 27].
+- [cite_start]**Pilot Payroll System**: WinDev application for automated salary calculations[cite: 32, 35].
 
 ---
 
