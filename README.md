@@ -13,7 +13,7 @@ I am a motivated developer specialized in web development (front-end & back-end)
 ---
 
 ### 🔗 Connect with me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lee-rabarison-885b36322/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" title="LinkedIn" />
   </a>
