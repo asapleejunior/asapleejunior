@@ -13,7 +13,7 @@ I am a motivated developer specialized in web development (front-end & back-end)
 ---
 
 ### 🔗 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/lee-rabarison-885b36322/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" title="LinkedIn" />
   </a>
@@ -30,7 +30,7 @@ I am a motivated developer specialized in web development (front-end & back-end)
 ### 🛠️ Technical Skills
 
 #### 💻 Programming & Web Development
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />
@@ -59,7 +59,7 @@ I am a motivated developer specialized in web development (front-end & back-end)
 ---
 
 ### 🖥️ IDEs & Workspace
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" title="PyCharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" title="IntelliJ" />
