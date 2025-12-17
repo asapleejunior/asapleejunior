@@ -2,13 +2,13 @@
 
 
 ### 🚀 About Me
-[cite_start]I am **Lee Valencio RABARISON**, a 3rd-year Management Information Systems student at **IS-INFO Ampasamadinika**  
+I am **Lee Valencio RABARISON**, a 3rd-year Management Information Systems student at **IS-INFO Ampasamadinika**  
 
 I am a motivated developer specialized in web development (front-end & back-end) with a strong foundation in database design[cite: 2].
 
-  🎯 **Goal**: Secure a graduation internship to finalize my Bachelor's degree[cite: 11].
-  🌍 **Languages**: Native Speaker, French (DELF B2), and English (Intermediate)[cite: 66, 67, 68].
-  ⚡ **Personal**: Analytical, organized, and a fast learner[cite: 3, 61].
+  🎯 **Goal**: Secure a graduation internship to finalize my Bachelor's degree
+  🌍 **Languages**: Native Speaker, French (DELF B2), and English (Intermediate)
+  ⚡ **Personal**: Analytical, organized, and a fast learner
 
 ---
 
