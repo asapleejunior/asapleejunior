@@ -1,14 +1,14 @@
 # <p align="center"> Lee Valencio RABARISON </p>
 
 
-### 🚀 About Me
-I am **Lee Valencio RABARISON**, a 3rd-year Management Information Systems student at **IS-INFO Ampasamadinika**  
+### 🐉About Me
+I am **Lee Valencio RABARISON**, a 3rd-year Management Information Systems student at 💻🧠IS-INFO Ampasamadinika🎖️🎓 
 
-I am a motivated developer specialized in web development (front-end & back-end) with a strong foundation in database design[cite: 2].
+I am a motivated developer specialized in web development (front-end & back-end) with a strong foundation in database design.  
 
-  🎯 **Goal**: Secure a graduation internship to finalize my Bachelor's degree
-  🌍 **Languages**: Native Speaker, French (DELF B2), and English (Intermediate)
-  ⚡ **Personal**: Analytical, organized, and a fast learner
+  🎯Goal: Secure a graduation internship to finalize my Bachelor's degree
+  🌍Languages:🇲🇬🇲🇫🇬🇧 
+  🙇🏻‍♂️Personal: Analytical, organized, and a fast learning
 
 ---
 
