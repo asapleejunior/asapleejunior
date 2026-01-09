@@ -5,6 +5,7 @@
 I am **Lee Valencio RABARISON**, a 3rd-year Management Information Systems student at 💻🧠IS-INFO Ampasamadinika🎖️🎓 
 
 I am a motivated developer specialized in web development (front-end & back-end) with a strong foundation in database design.  
+
 🙇🏻‍♂️Personal: Analytical, organized, and a fast learning
 
 ---
