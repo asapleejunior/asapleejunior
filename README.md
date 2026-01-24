@@ -17,8 +17,10 @@ I am a motivated developer specialized in web development (front-end & back-end)
 
 ---
 
+<div align="center">
+
 ### 🗣️ Languages I Speak
-<p align="left">
+<p>
   <img src="https://flagcdn.com/w40/gb.png" alt="English" title="English - Fluent" />
   <img src="https://flagcdn.com/w40/fr.png" alt="Français" title="Français - Courant" />
   <img src="https://flagcdn.com/w40/mg.png" alt="Malagasy" title="Malagasy - Natif" />
@@ -26,10 +28,14 @@ I am a motivated developer specialized in web development (front-end & back-end)
 
 **English** • **Français** • **Malagasy** (Madagascar)
 
+</div>
+
 ---
 
+<div align="center">
+
 ### 🔗 Connect with Me
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/lee-rabarison-885b36322/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" title="LinkedIn" />
   </a>
@@ -41,10 +47,14 @@ I am a motivated developer specialized in web development (front-end & back-end)
   </a>
 </p>
 
+</div>
+
 ---
 
+<div align="center">
+
 ### 🛠️ Technical Skills
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />
@@ -70,10 +80,14 @@ I am a motivated developer specialized in web development (front-end & back-end)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" title="Figma" />
 </p>
 
+</div>
+
 ---
 
+<div align="center">
+
 ### 🖥️ IDEs & Tools
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code" />
@@ -83,7 +97,7 @@ I am a motivated developer specialized in web development (front-end & back-end)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="45" title="NetBeans" />
 </p>
 
----
+</div>
 
 ### 📊 GitHub Stats
 <p align="center">
