@@ -44,19 +44,12 @@ I am a motivated developer specialized in web development (front-end & back-end)
 ---
 
 ### 🛠️ Technical Skills
-
-#### 💻 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />
-  <img src="https://skillicons.dev/icons?i=windicss" height="45" title="WLanguage" />
-</p>
-
-#### 🎨 Frontend Development
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" title="Bootstrap 5" />
@@ -64,33 +57,22 @@ I am a motivated developer specialized in web development (front-end & back-end)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" title="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" title="Next.js" />
-</p>
-
-#### ⚙️ Backend & Databases
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" title="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" title="Supabase" />
-</p>
-
-#### 🏢 Business & ERP
-<p align="left">
-  <img src="https://www.svgrepo.com/show/353991/odoo.svg" height="45" title="Odoo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amadeus_IT_Group_logo.svg/200px-Amadeus_IT_Group_logo.svg.png" height="45" title="Amadeus Travel" />
-</p>
-
-#### 🎨 Design & Creative Tools
-<p align="left">
+  <img src="https://github.com/odoo/odoo/raw/16.0/addons/web/static/img/logo.png" height="45" title="Odoo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" title="Adobe Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="45" title="Adobe Photoshop" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_InDesign_CC_icon.svg/512px-Adobe_InDesign_CC_icon.svg.png" height="45" title="Adobe InDesign" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/indesign/indesign-original.svg" height="45" title="Adobe InDesign" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="45" title="Adobe Premiere Pro" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" title="Figma" />
 </p>
 
-#### 🖥️ IDEs & Tools
+---
+
+### 🖥️ IDEs & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub" />
