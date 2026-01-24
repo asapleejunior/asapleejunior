@@ -19,14 +19,13 @@ I am a motivated developer specialized in web development (front-end & back-end)
 
 <div align="center">
 
-### 🗣️ Languages I Speak
+### 🗣️ Languages
 <p>
   <img src="https://flagcdn.com/w40/gb.png" alt="English" title="English - Fluent" />
   <img src="https://flagcdn.com/w40/fr.png" alt="Français" title="Français - Courant" />
   <img src="https://flagcdn.com/w40/mg.png" alt="Malagasy" title="Malagasy - Natif" />
 </p>
 
-**English** • **Français** • **Malagasy** (Madagascar)
 
 </div>
 
